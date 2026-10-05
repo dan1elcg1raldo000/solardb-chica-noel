@@ -68,8 +68,3 @@ Ejemplo de cron cada hora:
 |---|---|
 | Erick Noel Delgado Serna | Gobernanza de datos, SQL de tablas/roles, parte de la consulta y pruebas ETL |
 | Daniel Felipe Chica Giraldo | ETL/JSON, IoT, documentación, README y pruebas de idempotencia |
-
-> Antes de entregar, reemplazar los nombres de los integrantes y completar la tabla de aportes con la participación real.
-
-## Seguridad
-Nunca subir contraseñas, tokens ni cadenas de conexión reales. El archivo `.env` está excluido mediante `.gitignore`.
